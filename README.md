@@ -1,4 +1,4 @@
-Amazon Sales Analysis Dashboard 🛒📦
+# Amazon Sales Analysis Dashboard 🛒📦
 
 📖 Project Overview:
 Built a comprehensive sales analysis dashboard for Amazon products, providing insights into total revenue, sales trends, top-performing products, and customer behavior patterns.
